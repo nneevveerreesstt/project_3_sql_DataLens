@@ -11,4 +11,6 @@
 
 Основные инструменты - `sql, Yandex DataLens`.
 
+<img src="images/photo5.jpg" width="90%">
+
 <img src="images/photo4.jpg" width="90%">
